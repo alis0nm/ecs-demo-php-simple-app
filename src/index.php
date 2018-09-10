@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Testing Github Webhook for automatic build</h1>
-                <h2>Congratulations</h2>
+                <h2>Congratulations - woohoo</h2>
                 <p>Your TEST PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
